@@ -62,13 +62,5 @@ https://localhost:8080/
 http://localhost:8080/swagger-ui/index.html
 ```
 
-## Collaborators
-
-- [Priyanka Sanodiya](https://github.com/priyankasanodiya14) (Team Lead)
-- [Satyanand Shrivastava](https://github.com/Satya2008)
-- [Aviraj Sawant](https://github.com/Sawantaviraj2) 
-- [Arfat Siddiqui](https://github.com/SiddiquiArfat) 
-- [Akash Vishwakarma](https://github.com/akashvishwakarma27)
-
 
 
